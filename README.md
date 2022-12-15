@@ -1,1 +1,1 @@
-# nitdat-blockchain-schorlaship
+# calistus-igwilo/nitdat-blockchain-schorlaship
